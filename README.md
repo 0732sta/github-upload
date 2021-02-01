@@ -22,8 +22,8 @@ by using php, html, mysql, javascript also extra deco using bootstrap and css.
   
 ## Example and details for every file
 1.	home.html 
-  1.	Registration button: index.php, member_view.php
-  1. For Admin User: member_update.php,  update.php
+  - Rgistration button: index.php, member_view.php
+  - For Admin User: member_update.php,  update.php
 2.	index.php (Add button)
   - fill in registration form
   - Notify the user that the registration form successfully added in database
