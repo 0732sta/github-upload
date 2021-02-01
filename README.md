@@ -18,7 +18,7 @@ by using php, html, mysql, javascript also extra deco using bootstrap and css.
   - member_update.php
   - update.php
   
-  __no login required!
+  __Login not required!
   
 ### Example and details for every file
 1.	home.html 
