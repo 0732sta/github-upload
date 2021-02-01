@@ -1,4 +1,4 @@
-# Basic code to implement CRUD
+# Basic system to implement CRUD
 by using php, html, mysql, javascript also extra deco using bootstrap and css.
 
 **CRUD** - create, retrieve, update, delete
@@ -18,4 +18,4 @@ by using php, html, mysql, javascript also extra deco using bootstrap and css.
   - member_update.php
   - update.php
   
-  
+  __no login required!
