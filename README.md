@@ -20,7 +20,7 @@ by using php, html, mysql, javascript also extra deco using bootstrap and css.
   
   __Login not required!
   
-### Example and details for every file
+## Example and details for every file
 1.	home.html 
   -	Registration button: index.php, member_view.php
   -	For Admin User: member_update.php,  update.php
