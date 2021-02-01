@@ -1,4 +1,4 @@
-# github-upload
+# simple crud
 CRUD - create, retrieve, update, delete
 
 1. 
